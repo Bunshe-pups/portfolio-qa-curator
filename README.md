@@ -20,15 +20,6 @@
 - Форма обратной связи
 - Раздел FAQ
 - Адаптивная вёрстка для мобильных устройств
-  
-## Демонстрация проекта
-
-### Главная страница (Desktop & Mobile)
-<div align="center">
-  <img src="screenshots/desktop_main.jpg" width="45%" />
-  <img src="screenshots/mobile_adaptive.jpg" width="45%" />
-</div>
-<p align="center"><i>Адаптивная верстка: корректное отображение на всех устройствах</i></p>
 
 ## Структура репозитория
 
